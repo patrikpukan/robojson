@@ -1,5 +1,6 @@
 {
   "name": "robojson",
+  "homepage": "https://patrikpukan.github.io/robojson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
