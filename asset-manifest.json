@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robojson/static/css/main.2f7ee171.chunk.css",
+    "main.js": "/robojson/static/js/main.aeccc230.chunk.js",
+    "main.js.map": "/robojson/static/js/main.aeccc230.chunk.js.map",
+    "runtime-main.js": "/robojson/static/js/runtime-main.0f37dd93.js",
+    "runtime-main.js.map": "/robojson/static/js/runtime-main.0f37dd93.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robojson/static/css/2.fe359a49.chunk.css",
+    "static/js/2.44900231.chunk.js": "/robojson/static/js/2.44900231.chunk.js",
+    "static/js/2.44900231.chunk.js.map": "/robojson/static/js/2.44900231.chunk.js.map",
+    "static/js/3.e090c840.chunk.js": "/robojson/static/js/3.e090c840.chunk.js",
+    "static/js/3.e090c840.chunk.js.map": "/robojson/static/js/3.e090c840.chunk.js.map",
+    "index.html": "/robojson/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robojson/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2f7ee171.chunk.css.map": "/robojson/static/css/main.2f7ee171.chunk.css.map",
+    "static/js/2.44900231.chunk.js.LICENSE.txt": "/robojson/static/js/2.44900231.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/robojson/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f37dd93.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.44900231.chunk.js",
+    "static/css/main.2f7ee171.chunk.css",
+    "static/js/main.aeccc230.chunk.js"
+  ]
+}
