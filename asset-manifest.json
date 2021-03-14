@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/robojson/static/css/main.2f7ee171.chunk.css",
-    "main.js": "/robojson/static/js/main.aeccc230.chunk.js",
-    "main.js.map": "/robojson/static/js/main.aeccc230.chunk.js.map",
+    "main.js": "/robojson/static/js/main.95ec5f02.chunk.js",
+    "main.js.map": "/robojson/static/js/main.95ec5f02.chunk.js.map",
     "runtime-main.js": "/robojson/static/js/runtime-main.0f37dd93.js",
     "runtime-main.js.map": "/robojson/static/js/runtime-main.0f37dd93.js.map",
     "static/css/2.fe359a49.chunk.css": "/robojson/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.44900231.chunk.js",
     "static/css/main.2f7ee171.chunk.css",
-    "static/js/main.aeccc230.chunk.js"
+    "static/js/main.95ec5f02.chunk.js"
   ]
 }
